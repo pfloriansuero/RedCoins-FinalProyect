@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive - INTEC\Mayo-Julio 22\Desarrollo de Software II\FinalVersionRedCoins\FinalVersionRedCoins\bin\Debug\FinalVersionRedCoins.exe.config
+C:\Users\Lenovo\OneDrive - INTEC\Mayo-Julio 22\Desarrollo de Software II\FinalVersionRedCoins\FinalVersionRedCoins\bin\Debug\FinalVersionRedCoins.exe
+C:\Users\Lenovo\OneDrive - INTEC\Mayo-Julio 22\Desarrollo de Software II\FinalVersionRedCoins\FinalVersionRedCoins\bin\Debug\FinalVersionRedCoins.pdb
+C:\Users\Lenovo\OneDrive - INTEC\Mayo-Julio 22\Desarrollo de Software II\FinalVersionRedCoins\FinalVersionRedCoins\obj\Debug\FinalVersionRedCoins.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - INTEC\Mayo-Julio 22\Desarrollo de Software II\FinalVersionRedCoins\FinalVersionRedCoins\obj\Debug\FinalVersionRedCoins.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive - INTEC\Mayo-Julio 22\Desarrollo de Software II\FinalVersionRedCoins\FinalVersionRedCoins\obj\Debug\FinalVersionRedCoins.Form1.resources
+C:\Users\Lenovo\OneDrive - INTEC\Mayo-Julio 22\Desarrollo de Software II\FinalVersionRedCoins\FinalVersionRedCoins\obj\Debug\FinalVersionRedCoins.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive - INTEC\Mayo-Julio 22\Desarrollo de Software II\FinalVersionRedCoins\FinalVersionRedCoins\obj\Debug\FinalVersionRedCoins.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - INTEC\Mayo-Julio 22\Desarrollo de Software II\FinalVersionRedCoins\FinalVersionRedCoins\obj\Debug\FinalVersionRedCoins.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - INTEC\Mayo-Julio 22\Desarrollo de Software II\FinalVersionRedCoins\FinalVersionRedCoins\obj\Debug\FinalVersionRedCoins.exe
+C:\Users\Lenovo\OneDrive - INTEC\Mayo-Julio 22\Desarrollo de Software II\FinalVersionRedCoins\FinalVersionRedCoins\obj\Debug\FinalVersionRedCoins.pdb
+C:\Users\Lenovo\OneDrive - INTEC\Mayo-Julio 22\Desarrollo de Software II\FinalVersionRedCoins\FinalVersionRedCoins\obj\Debug\FinalVersionRedCoins.Formularios.FPrincipal.resources
+C:\Users\Lenovo\OneDrive - INTEC\Mayo-Julio 22\Desarrollo de Software II\FinalVersionRedCoins\FinalVersionRedCoins\obj\Debug\FinalVersionRedCoins.Formularios.FTipoGasto.resources
+C:\Users\Lenovo\OneDrive - INTEC\Mayo-Julio 22\Desarrollo de Software II\FinalVersionRedCoins\FinalVersionRedCoins\obj\Debug\FinalVersionRedCoins.Formularios.FIngreso.resources
+C:\Users\Lenovo\OneDrive - INTEC\Mayo-Julio 22\Desarrollo de Software II\FinalVersionRedCoins\FinalVersionRedCoins\obj\Debug\FinalVersionRedCoins.Formularios.FGastos.resources
