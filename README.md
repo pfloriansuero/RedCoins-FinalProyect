@@ -1,2 +1,2 @@
-# RedCoins-FialProyect
-Proyecto Final IDS control de gastos e ingresos
+# RedCoins-Control de gastos
+ control de gastos e ingresos C#
